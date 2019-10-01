@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\beakovicPaoloDz1\beakovicPaoloDz1\obj\Debug\beakovicPaoloDz1.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\beakovicPaoloDz1\beakovicPaoloDz1\obj\Debug\beakovicPaoloDz1.Form1.resources
+C:\Users\3.D\source\repos\beakovicPaoloDz1\beakovicPaoloDz1\obj\Debug\beakovicPaoloDz1.Properties.Resources.resources
+C:\Users\3.D\source\repos\beakovicPaoloDz1\beakovicPaoloDz1\obj\Debug\beakovicPaoloDz1.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\beakovicPaoloDz1\beakovicPaoloDz1\obj\Debug\beakovicPaoloDz1.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\beakovicPaoloDz1\beakovicPaoloDz1\bin\Debug\beakovicPaoloDz1.exe.config
+C:\Users\3.D\source\repos\beakovicPaoloDz1\beakovicPaoloDz1\bin\Debug\beakovicPaoloDz1.exe
+C:\Users\3.D\source\repos\beakovicPaoloDz1\beakovicPaoloDz1\bin\Debug\beakovicPaoloDz1.pdb
+C:\Users\3.D\source\repos\beakovicPaoloDz1\beakovicPaoloDz1\obj\Debug\beakovicPaoloDz1.exe
+C:\Users\3.D\source\repos\beakovicPaoloDz1\beakovicPaoloDz1\obj\Debug\beakovicPaoloDz1.pdb
